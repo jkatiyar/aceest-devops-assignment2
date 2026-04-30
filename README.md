@@ -169,3 +169,24 @@ minikube service aceest-service
 ## Conclusion
 
 This project demonstrates a **complete DevOps pipeline from code to production deployment**, simulating real-world workflows used in modern software engineering.
+
+
+## Screenshots
+
+### Kubernetes Pods
+![Pods](screenshots/k8s_pods.png)
+
+### Docker Images
+![Docker](screenshots/docker_tags.png)
+
+### Version 1 Output
+![v1](screenshots/v1_output.png)
+
+### Version 2 Output
+![v2](screenshots/v2_output.png)
+
+### Rollback
+![Rollback](screenshots/rollback.png)
+
+### Canary Deployment
+![Canary](screenshots/canary.png)
